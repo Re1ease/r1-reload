@@ -1,4 +1,4 @@
-Forum Link : 
+Forum Link : https://forum.cfx.re/t/release-free-esx-standalone-r1-reload/4777939
 
 This script was custom-made for a client, which means that not every weapon/ammo-related feature has been added to the script. However, if a feature is requested and I have time, I could add it in an update.
 
